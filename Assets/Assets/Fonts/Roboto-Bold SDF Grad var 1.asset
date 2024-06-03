@@ -137,7 +137,7 @@ Material:
     - _StencilWriteMask: 255
     - _TextureHeight: 512
     - _TextureWidth: 512
-    - _UnderlayDilate: 0.54
+    - _UnderlayDilate: 0.25
     - _UnderlayOffsetX: 0
     - _UnderlayOffsetY: 0
     - _UnderlaySoftness: 0
@@ -155,7 +155,7 @@ Material:
     - _ReflectFaceColor: {r: 0, g: 0, b: 0, a: 1}
     - _ReflectOutlineColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
-    - _UnderlayColor: {r: 0, g: 0, b: 0, a: 0.6862745}
+    - _UnderlayColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &11400000
 MonoBehaviour:
@@ -167,11 +167,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
-  m_Name: Roboto-Bold SDF Underline Dark
+  m_Name: Roboto-Bold SDF Grad var 1
   m_EditorClassIdentifier: 
-  hashCode: -1481074136
+  hashCode: -635320526
   material: {fileID: -3754685356188771878}
-  materialHashCode: -611575032
+  materialHashCode: -1838732846
   m_Version: 1.1.0
   m_SourceFontFileGUID: 5a84a64cb4c232d4d87ce4171ad586da
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 5a84a64cb4c232d4d87ce4171ad586da, type: 3}
