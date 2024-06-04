@@ -1,5 +1,6 @@
 version: 2
 tpsheetFileNames:
+- Assets/Assets/Monster assets/Mouthes and noses.tpsheet
 - Assets/Assets/Particle assets/kennys particl 1.tpsheet
 - Assets/Assets/Particle assets/kennys particl 2.tpsheet
 - Assets/Assets/Ui assets/Blue UI assets.tpsheet
@@ -9,6 +10,7 @@ tpsheetFileNames:
 - Assets/Assets/Ui assets/Yellow UI assets.tpsheet
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
 textureFileNames:
+- Assets/Assets/Monster assets/Mouthes and noses-0.png
 - Assets/Assets/Particle assets/kennys particl 1.png
 - Assets/Assets/Particle assets/kennys particl 2.png
 - Assets/Assets/Ui assets/Blue UI assets.png
@@ -18,6 +20,7 @@ textureFileNames:
 - Assets/Assets/Ui assets/Yellow UI assets.png
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
 normalmapFileNames:
+- 
 - 
 - 
 - 
