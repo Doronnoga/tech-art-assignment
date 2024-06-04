@@ -159,8 +159,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 137.43002, y: -520}
-  m_SizeDelta: {x: 226.02, y: 120.34}
+  m_AnchoredPosition: {x: 234, y: -539.7}
+  m_SizeDelta: {x: 300.04, y: 159.75}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &863005933
 MonoBehaviour:
@@ -247,7 +247,7 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
+  m_PixelsPerUnitMultiplier: 0.33
 --- !u!222 &863005935
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -345,7 +345,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 60.15
+  m_fontSize: 72
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -452,7 +452,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Hello!
+  m_text: What's that?!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b10493c3285ab8c42a54b088ae062d2d, type: 2}
   m_sharedMaterial: {fileID: -3754685356188771878, guid: b10493c3285ab8c42a54b088ae062d2d, type: 2}
@@ -541,8 +541,9 @@ GameObject:
   - component: {fileID: 970513994}
   - component: {fileID: 970513993}
   - component: {fileID: 970513992}
+  - component: {fileID: 970513995}
   m_Layer: 5
-  m_Name: Button Hi
+  m_Name: Button Wow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -565,8 +566,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -150, y: -520}
-  m_SizeDelta: {x: 226.02, y: 120.34}
+  m_AnchoredPosition: {x: -180.73999, y: -539.7}
+  m_SizeDelta: {x: 452.97, y: 159.75}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &970513992
 MonoBehaviour:
@@ -621,7 +622,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Hi
+          m_StringArgument: Wow
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &970513993
@@ -653,7 +654,7 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
+  m_PixelsPerUnitMultiplier: 0.33
 --- !u!222 &970513994
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -662,6 +663,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 970513990}
   m_CullTransparentMesh: 1
+--- !u!114 &970513995
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 970513990}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HorizontalFit: 0
+  m_VerticalFit: 0
 --- !u!1 &1230312925
 GameObject:
   m_ObjectHideFlags: 0
@@ -1038,25 +1053,61 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 217064452756747792, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.381
+      objectReference: {fileID: 0}
+    - target: {fileID: 217064452756747792, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.096
+      objectReference: {fileID: 0}
     - target: {fileID: 300594926324629601, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.38617843
+      value: 0.38617828
       objectReference: {fileID: 0}
     - target: {fileID: 300594926324629601, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.019919679
+      value: 0.01991968
       objectReference: {fileID: 0}
     - target: {fileID: 300594926324629601, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.092245765
+      value: 0.09224579
       objectReference: {fileID: 0}
     - target: {fileID: 300594926324629601, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
       propertyPath: m_LocalRotation.z
       value: -0.9175839
       objectReference: {fileID: 0}
+    - target: {fileID: 509604249613634325, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.08676522
+      objectReference: {fileID: 0}
+    - target: {fileID: 509604249613634325, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.99622875
+      objectReference: {fileID: 0}
+    - target: {fileID: 1366429866545868338, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.42296
+      objectReference: {fileID: 0}
     - target: {fileID: 2845248607677347654, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
       propertyPath: m_Name
       value: Noga Monster
+      objectReference: {fileID: 0}
+    - target: {fileID: 3093388037146870655, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.96766305
+      objectReference: {fileID: 0}
+    - target: {fileID: 3093388037146870655, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.004975381
+      objectReference: {fileID: 0}
+    - target: {fileID: 3093388037146870655, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.019507097
+      objectReference: {fileID: 0}
+    - target: {fileID: 3093388037146870655, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.25144196
       objectReference: {fileID: 0}
     - target: {fileID: 4013907232369618725, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1100,35 +1151,43 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7034107914336423162, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.2176776
+      value: 0.21767835
       objectReference: {fileID: 0}
     - target: {fileID: 7034107914336423162, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.97602075
+      value: 0.97602063
       objectReference: {fileID: 0}
     - target: {fileID: 7304435003021206626, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.5052827
+      value: 0.50528276
       objectReference: {fileID: 0}
     - target: {fileID: 7304435003021206626, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.8629539
+      value: -0.86295384
+      objectReference: {fileID: 0}
+    - target: {fileID: 7627317538677323352, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.11210458
+      objectReference: {fileID: 0}
+    - target: {fileID: 7627317538677323352, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.9936964
       objectReference: {fileID: 0}
     - target: {fileID: 7758970381258219272, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.968316
+      value: 0.96831566
       objectReference: {fileID: 0}
     - target: {fileID: 7758970381258219272, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.013728777
+      value: -0.013728768
       objectReference: {fileID: 0}
     - target: {fileID: 7758970381258219272, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.063344926
+      value: 0.06334488
       objectReference: {fileID: 0}
     - target: {fileID: 7758970381258219272, guid: a7165c11cd71b774db48f9e31f2d07f4, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.24117017
+      value: 0.24117167
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
