@@ -100,8 +100,8 @@ TextureImporter:
       name: mouth_closed_fangs
       rect:
         serializedVersion: 2
-        x: 205
-        y: 39
+        x: 383
+        y: 89
         width: 52
         height: 20
       alignment: 0
@@ -121,8 +121,8 @@ TextureImporter:
       name: mouth_closed_happy
       rect:
         serializedVersion: 2
-        x: 429
-        y: 104
+        x: 206
+        y: 94
         width: 80
         height: 24
       alignment: 0
@@ -142,8 +142,8 @@ TextureImporter:
       name: mouth_closed_sad
       rect:
         serializedVersion: 2
-        x: 0
-        y: 17
+        x: 383
+        y: 109
         width: 52
         height: 20
       alignment: 0
@@ -163,8 +163,8 @@ TextureImporter:
       name: mouth_closed_teeth
       rect:
         serializedVersion: 2
-        x: 225
-        y: 60
+        x: 316
+        y: 129
         width: 66
         height: 26
       alignment: 0
@@ -184,8 +184,8 @@ TextureImporter:
       name: mouthC
       rect:
         serializedVersion: 2
-        x: 298
-        y: 90
+        x: 256
+        y: 176
         width: 78
         height: 38
       alignment: 0
@@ -205,8 +205,8 @@ TextureImporter:
       name: mouthD
       rect:
         serializedVersion: 2
-        x: 159
-        y: 59
+        x: 206
+        y: 67
         width: 66
         height: 27
       alignment: 0
@@ -226,8 +226,8 @@ TextureImporter:
       name: mouthE
       rect:
         serializedVersion: 2
-        x: 0
-        y: 37
+        x: 387
+        y: 162
         width: 62
         height: 39
       alignment: 0
@@ -247,8 +247,8 @@ TextureImporter:
       name: mouthF
       rect:
         serializedVersion: 2
-        x: 224
-        y: 86
+        x: 330
+        y: 214
         width: 74
         height: 42
       alignment: 0
@@ -268,8 +268,8 @@ TextureImporter:
       name: mouthG
       rect:
         serializedVersion: 2
-        x: 109
-        y: 36
+        x: 449
+        y: 157
         width: 50
         height: 44
       alignment: 0
@@ -289,8 +289,8 @@ TextureImporter:
       name: mouthH
       rect:
         serializedVersion: 2
-        x: 0
-        y: 76
+        x: 128
+        y: 66
         width: 78
         height: 52
       alignment: 0
@@ -310,8 +310,8 @@ TextureImporter:
       name: mouthI
       rect:
         serializedVersion: 2
-        x: 150
-        y: 86
+        x: 256
+        y: 214
         width: 74
         height: 42
       alignment: 0
@@ -331,8 +331,8 @@ TextureImporter:
       name: mouthJ
       rect:
         serializedVersion: 2
-        x: 78
-        y: 80
+        x: 0
+        y: 1
         width: 72
         height: 48
       alignment: 0
@@ -352,8 +352,8 @@ TextureImporter:
       name: nose_brown
       rect:
         serializedVersion: 2
-        x: 429
-        y: 56
+        x: 72
+        y: 1
         width: 54
         height: 48
       alignment: 0
@@ -373,8 +373,8 @@ TextureImporter:
       name: nose_green
       rect:
         serializedVersion: 2
-        x: 376
-        y: 69
+        x: 334
+        y: 155
         width: 53
         height: 59
       alignment: 0
@@ -394,8 +394,8 @@ TextureImporter:
       name: nose_red
       rect:
         serializedVersion: 2
-        x: 62
-        y: 25
+        x: 464
+        y: 205
         width: 47
         height: 51
       alignment: 0
@@ -415,8 +415,8 @@ TextureImporter:
       name: nose_yellow
       rect:
         serializedVersion: 2
-        x: 159
-        y: 21
+        x: 256
+        y: 29
         width: 46
         height: 38
       alignment: 0
@@ -436,8 +436,8 @@ TextureImporter:
       name: snot_large
       rect:
         serializedVersion: 2
-        x: 483
-        y: 43
+        x: 365
+        y: 68
         width: 18
         height: 61
       alignment: 0
@@ -457,8 +457,8 @@ TextureImporter:
       name: snot_small
       rect:
         serializedVersion: 2
-        x: 355
-        y: 46
+        x: 286
+        y: 77
         width: 21
         height: 44
       alignment: 0
@@ -474,6 +474,426 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: eye_angry_blue
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73b30edd87f85749a2d59b76be244d2
+      internalID: -206134091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye_angry_green
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 201
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef4b60b11b4d7341a4a3ca25d91d6af
+      internalID: -1844471331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye_angry_red
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 121
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56c568eee1f87747bd6cf3ad7ce0bd2
+      internalID: 948937297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye_blue
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 118
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811359f7d06fdf4428162598a3e58a32
+      internalID: 2039545517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye_closed_feminine
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 106
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accdab4c9a1cf854a83b4fa82d3531c1
+      internalID: 2128275955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye_closed_happy
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 71
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b93b75d625aff1418938d005b901cff
+      internalID: 1270853399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye_cute_dark
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 49
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3402f65c296dbeb498c151dfbdd27da1
+      internalID: 241490755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye_cute_light
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 118
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f3d3f030f3b98419436365cb907c3f
+      internalID: 1066382471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye_dead
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3afc3029352ba4fbd0d2f2a14b1ea0
+      internalID: -1122218755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye_human
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37d0a0496e2875448f09eeaad4b2426
+      internalID: -180580677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye_human_blue
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 118
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d0871d2034efd49a71fc544597cd4e
+      internalID: -564390524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye_human_green
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 187
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1197faa8489c6fb41a9a66e07e30dfa3
+      internalID: -672566989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye_human_red
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 187
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d3ebe6e1e6f854ab96944278a618a1
+      internalID: -2064338275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye_psycho_dark
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdecd157c5b5fc4996d73c3357d6e0a
+      internalID: -1477616412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye_psycho_light
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 187
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317ba00baf7708048a7166dd957d8a2e
+      internalID: 1005839572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye_red
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331cc91d3c831a34f91b6f907ee69368
+      internalID: 1546402040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye_yellow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a450e5369eebe564796d8e3dc2ca1ddc
+      internalID: 1407796212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyebrowA
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 97
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e418905c5f728418a8bb5a49cc7024
+      internalID: 646642003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyebrowB
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 124
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5564884fd5b7c614a98ac65c4088b253
+      internalID: 1010388682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyebrowC
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 129
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e77d8713cd4fb43b47bbf31ae8d4ff
+      internalID: -420685859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -485,6 +905,26 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      eye_angry_blue: -206134091
+      eye_angry_green: -1844471331
+      eye_angry_red: 948937297
+      eye_blue: 2039545517
+      eye_closed_feminine: 2128275955
+      eye_closed_happy: 1270853399
+      eye_cute_dark: 241490755
+      eye_cute_light: 1066382471
+      eye_dead: -1122218755
+      eye_human: -180580677
+      eye_human_blue: -564390524
+      eye_human_green: -672566989
+      eye_human_red: -2064338275
+      eye_psycho_dark: -1477616412
+      eye_psycho_light: 1005839572
+      eye_red: 1546402040
+      eye_yellow: 1407796212
+      eyebrowA: 646642003
+      eyebrowB: 1010388682
+      eyebrowC: -420685859
       mouthC: 1179370369
       mouthD: 1984838999
       mouthE: 1052736728
