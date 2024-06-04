@@ -1255,6 +1255,14 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3343639206531912308, guid: 18dafc7c1423db348babd7fa4cc24bcf, type: 3}
+      propertyPath: m_Interactable
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343639206531912308, guid: 18dafc7c1423db348babd7fa4cc24bcf, type: 3}
+      propertyPath: m_BlocksRaycasts
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3510078604278884869, guid: 18dafc7c1423db348babd7fa4cc24bcf, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
